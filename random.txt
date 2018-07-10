@@ -1,0 +1,139 @@
+clearspotify-this-song,"I Want it That Way"LIRI Response:
+User Command: node liri.js my-tweets
+
+ LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Jul 10 06:13:53 +0000 2018
+Tweet content: tweet 21
+------------------------
+Created on: Tue Jul 10 06:13:48 +0000 2018
+Tweet content: tweet 20
+------------------------
+Created on: Tue Jul 10 06:13:44 +0000 2018
+Tweet content: tweet 19
+------------------------
+Created on: Tue Jul 10 06:13:39 +0000 2018
+Tweet content: tweet 18
+------------------------
+Created on: Tue Jul 10 06:13:25 +0000 2018
+Tweet content: tweet 17
+------------------------
+Created on: Tue Jul 10 06:13:13 +0000 2018
+Tweet content: tweet 16
+------------------------
+Created on: Tue Jul 10 06:13:07 +0000 2018
+Tweet content: tweet 15
+------------------------
+Created on: Tue Jul 10 06:12:59 +0000 2018
+Tweet content: tweet 14
+------------------------
+Created on: Tue Jul 10 06:12:47 +0000 2018
+Tweet content: tweet 13
+------------------------
+Created on: Tue Jul 10 06:12:43 +0000 2018
+Tweet content: tweet 12
+------------------------
+Created on: Tue Jul 10 06:12:38 +0000 2018
+Tweet content: tweet 11
+------------------------
+Created on: Tue Jul 10 06:12:26 +0000 2018
+Tweet content: tweet 10
+------------------------
+Created on: Tue Jul 10 06:12:19 +0000 2018
+Tweet content: tweet 9
+------------------------
+Created on: Tue Jul 10 06:12:15 +0000 2018
+Tweet content: tweet 8
+------------------------
+Created on: Tue Jul 10 06:12:08 +0000 2018
+Tweet content: this is my 7th tweet
+------------------------
+Created on: Tue Jul 10 06:12:01 +0000 2018
+Tweet content: this is my 6th tweet
+------------------------
+Created on: Tue Jul 10 06:11:53 +0000 2018
+Tweet content: this is my 5th tweet
+------------------------
+Created on: Sun Jul 08 05:50:06 +0000 2018
+Tweet content: this is my 4th tweet
+------------------------
+Created on: Sun Jul 08 05:49:56 +0000 2018
+Tweet content: I hope everyone enjoyed their july 4th
+------------------------
+Created on: Sun Jul 08 05:48:39 +0000 2018
+Tweet content: Setting up my portfolio!
+------------------------
+
+User Command: node liri.js my-tweets
+
+ LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Jul 10 06:13:53 +0000 2018
+Tweet content: tweet 21
+------------------------
+Created on: Tue Jul 10 06:13:48 +0000 2018
+Tweet content: tweet 20
+------------------------
+Created on: Tue Jul 10 06:13:44 +0000 2018
+Tweet content: tweet 19
+------------------------
+Created on: Tue Jul 10 06:13:39 +0000 2018
+Tweet content: tweet 18
+------------------------
+Created on: Tue Jul 10 06:13:25 +0000 2018
+Tweet content: tweet 17
+------------------------
+Created on: Tue Jul 10 06:13:13 +0000 2018
+Tweet content: tweet 16
+------------------------
+Created on: Tue Jul 10 06:13:07 +0000 2018
+Tweet content: tweet 15
+------------------------
+Created on: Tue Jul 10 06:12:59 +0000 2018
+Tweet content: tweet 14
+------------------------
+Created on: Tue Jul 10 06:12:47 +0000 2018
+Tweet content: tweet 13
+------------------------
+Created on: Tue Jul 10 06:12:43 +0000 2018
+Tweet content: tweet 12
+------------------------
+Created on: Tue Jul 10 06:12:38 +0000 2018
+Tweet content: tweet 11
+------------------------
+Created on: Tue Jul 10 06:12:26 +0000 2018
+Tweet content: tweet 10
+------------------------
+Created on: Tue Jul 10 06:12:19 +0000 2018
+Tweet content: tweet 9
+------------------------
+Created on: Tue Jul 10 06:12:15 +0000 2018
+Tweet content: tweet 8
+------------------------
+Created on: Tue Jul 10 06:12:08 +0000 2018
+Tweet content: this is my 7th tweet
+------------------------
+Created on: Tue Jul 10 06:12:01 +0000 2018
+Tweet content: this is my 6th tweet
+------------------------
+Created on: Tue Jul 10 06:11:53 +0000 2018
+Tweet content: this is my 5th tweet
+------------------------
+Created on: Sun Jul 08 05:50:06 +0000 2018
+Tweet content: this is my 4th tweet
+------------------------
+Created on: Sun Jul 08 05:49:56 +0000 2018
+Tweet content: I hope everyone enjoyed their july 4th
+------------------------
+Created on: Sun Jul 08 05:48:39 +0000 2018
+Tweet content: Setting up my portfolio!
+------------------------
+
